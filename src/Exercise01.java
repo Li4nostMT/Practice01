@@ -17,5 +17,7 @@ public class Exercise01 {
             System.out.printf("Выплата в размере 20%% процентов от %.2f равна %.2f", valueProdaj,procent);
         }
         else System.out.println("Процента нет!");
+
+
     }
 }
